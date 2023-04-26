@@ -1,0 +1,31 @@
+step1:download MOBILedit! Forensic lite
+
+click on start
+
+select phone > next
+
+connection type> cable,wifi,bluetooth connection
+
+cable connection steps > next
+
+cable connection phone detection > next
+
+connector to be installed > next
+
+select the phone eg oppo a83
+
+mobileedit forensic wizard > next
+
+select file folder of phone> next
+
+acquring data of phone . yes
+
+cases > next
+teemplate > RTF IN ENGLISH 
+
+NOW u can access all logs , media of the phone
+
+
+
+
+

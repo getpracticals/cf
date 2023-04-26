@@ -1,0 +1,29 @@
+Open the Wireshark and click on Ethernet.
+
+1)Display packets based on specific IP-address.
+ip.addr==192.0.2.1
+
+2)Display packets which are coming from specific IP-address.
+ip.scr==184.84.108.122
+
+3)Display packets which are having specific IP-address destination.
+ip.dst==192.168.3.154
+
+4)Display packets which are using http protocol.
+http
+
+5)Display packets which are using http.request
+http.request
+
+6)Display packets which are using TCP protocol.
+tcp
+
+7)Display packets having no error connecting to server.
+http.response.code==200
+
+8)Display packets having port number 80
+tcp.port==80
+
+
+Wireshark is a Unix or Windows packet capture and analysis tool. Unlike tcpdump or tools such as RawCap, Wireshark is a GUI-based tool and has a number of not only packet capture, but also analysis features. As a result, Wireshark may be difficult to deploy rapidly during an incident as the program has to be installed
+

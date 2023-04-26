@@ -1,0 +1,42 @@
+Recovering email using AccessData FTK:
+steps
+
+1: Start AccessData FTK by right-clicking the AccessData FTK desktop icon, clicking Run as administrator, and clicking Continue in the UAC message box (if you’re using Vista). If you’re prompted with a warning message and/or notification (see Figure below), click OK as needed to continue. If asked whether you want to save the existing default case click Yes.
+
+2.When the AccessData FTK Startup dialog box opens, click Start a new case, and then click OK.
+
+3.In the New Case dialog box, type your name for the investigator name, and type the case number and case name. Click Browse, navigate to and click your work folder, click OK, and then click Next
+
+4.In the Case Information dialog box, enter your investigator information, and then click Next.
+
+5. Click Next until you reach the Refine Case - Default dialog box, shown in Figure below
+.
+6. Click the Email Emphasis button, and then click Next.
+
+7. Click Next until you reach the Add Evidence to Case dialog box, and then click the Add Evidence button.
+
+8. In the Add Evidence to Case dialog box, click the Individual File option button  and then click Continue.
+
+9. In the Select File dialog box, navigate to your work folder, click the Jim_shu’s.pst file, and,then click Open.
+
+10. In the Evidence Information dialog box, click OK.
+
+11. When the Add Evidence to Case dialog box opens, click Next. In the Case summary dialog box, click Finish.
+
+12. When FTK finishes processing the file, in the main FTK window, click the E-mail Messages button, and then click the Full Path column header to sort the records.
+
+Right-click Message0010 in the File List pane and click Export File. In the Export Files dialog box, click OK
+
+Open the Export folder to view the Email Files, Open the HTML file in browser
+
+
+
+Email forensics is dedicated to investigating, extracting, and analyzing emails to collect digital evidence as findings in order to crack crimes and certain incidents, in a forensically sound manner
+
+
+
+
+Mail Service Providers
+Email protocols
+Recovering emails
+Analyzing email header

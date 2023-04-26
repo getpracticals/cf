@@ -1,0 +1,31 @@
+
+Step 1:Create a Folder named original which contains a test file
+write a text in test file like hello world
+
+Step 2:Open FTK imager and select file>Create Disk Image
+
+Step3:Select Contents of a folder
+
+Step 4:Select the source path and browse the original folder
+
+Step 05:Give image destination
+
+step 6: Give Evidence information of destination
+
+Step 07:Browse destination folder forensic
+
+Step 08: Click Start
+
+Step09:You can see the result matched
+
+Step10: We can see the image summary
+
+Step11: Select File>Add Evidence item
+
+Step12:Select Image file in forensics ending with .adl
+
+output
+
+
+
+FTK® Imager can create perfect copies, or forensic images of computer data without making changes to the original evidence. The forensic image is identical in every way to the original, including file slack and unallocated space or drive free space.

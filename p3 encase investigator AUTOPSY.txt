@@ -1,0 +1,35 @@
+
+Step1: Start Autopsy -> Select New Case.
+
+step2: Enter Case Information -> Browse Base Directory & Click on Next
+
+step3:Fill all Optional Information.
+
+step4:In Select Host we will select -> Generate new host name based on data source name and click on Next.
+
+step5:Select the type of Data Source that has to be added.
+
+step6:select Data Source (here a previously made image file of USB is selected
+
+step7:Select all ingest modules.
+
+step8:Wait for Data source to process and be added to local database and Click Finish.
+
+step9:Now Autopsy window will appear and it will analyzing the disk that we have selected.
+
+step10:All files will appear in table tab select any file to see the data.
+
+step11:Expand the tree from left side panel to view the files and then expand the deleted files Node.
+
+Step12:To recover the file, go to view node-> Deleted Files node -> Select any file -> Right click on it than select Extract Files option
+
+step13:by default Export folder is choose to save the recovered file.
+
+Step14:Now go to the Export Folder to view Recover file
+
+step15:Select -> Logical files-> select sample file ->add->next ->Finish
+
+step16:then Generate Report->Click on Generate Report
+
+
+An autopsy, also known as a post-mortem examination, is a specialized surgical procedure used to determine the cause and manner of death. The cause of death is the medical reason explaining why a patient passed. The manner of death is the circumstances surrounding the death.
